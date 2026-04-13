@@ -1,4 +1,5 @@
 {
     "cmake.sourceDirectory": "C:/Users/sehmi/OneDrive/Documents/PlatformIO/Projects/SonosESP/src",
-    "cmake.ignoreCMakeListsMissing": true
+    "cmake.ignoreCMakeListsMissing": true,
+    "C_Cpp.default.enableConfigurationSquiggles": false
 }
