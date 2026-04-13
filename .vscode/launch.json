@@ -12,9 +12,9 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "J:/ESP32_P4/SonosESP-main/.pio/build/esp32-p4/firmware.elf",
+            "executable": "D:/0.Person_Project/ESP32/ESP32_P4_Peer_desktop/.pio/build/esp32-p4/firmware.elf",
             "projectEnvName": "esp32-p4",
-            "toolchainBinDir": "C:/Users/bisan/.platformio/packages/toolchain-riscv32-esp/bin",
+            "toolchainBinDir": "C:/Users/Dev_Team2/.platformio/packages/toolchain-riscv32-esp/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "preLaunchTask": {
                 "type": "PlatformIO",
@@ -25,18 +25,18 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "J:/ESP32_P4/SonosESP-main/.pio/build/esp32-p4/firmware.elf",
+            "executable": "D:/0.Person_Project/ESP32/ESP32_P4_Peer_desktop/.pio/build/esp32-p4/firmware.elf",
             "projectEnvName": "esp32-p4",
-            "toolchainBinDir": "C:/Users/bisan/.platformio/packages/toolchain-riscv32-esp/bin",
+            "toolchainBinDir": "C:/Users/Dev_Team2/.platformio/packages/toolchain-riscv32-esp/bin",
             "internalConsoleOptions": "openOnSessionStart"
         },
         {
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (without uploading)",
-            "executable": "J:/ESP32_P4/SonosESP-main/.pio/build/esp32-p4/firmware.elf",
+            "executable": "D:/0.Person_Project/ESP32/ESP32_P4_Peer_desktop/.pio/build/esp32-p4/firmware.elf",
             "projectEnvName": "esp32-p4",
-            "toolchainBinDir": "C:/Users/bisan/.platformio/packages/toolchain-riscv32-esp/bin",
+            "toolchainBinDir": "C:/Users/Dev_Team2/.platformio/packages/toolchain-riscv32-esp/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "loadMode": "manual"
         }
